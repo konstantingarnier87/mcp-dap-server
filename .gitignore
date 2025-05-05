@@ -4,3 +4,4 @@ build/
 dist/
 *.pyc
 *.tmp
+.pytest_cache/
